@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>im XiYuZë</title>
+    <link>https://trackerrr.github.io/blog/</link>
+    <description>Recent content on im XiYuZë</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Xiangyuan Zeng 2021</copyright>
+    <lastBuildDate>Fri, 19 Nov 2021 19:10:52 -0500</lastBuildDate><atom:link href="https://trackerrr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://trackerrr.github.io/blog/contact/about/</link>
+      <pubDate>Fri, 19 Nov 2021 19:10:52 -0500</pubDate>
+      
+      <guid>https://trackerrr.github.io/blog/contact/about/</guid>
+      <description>sdfsdf</description>
+    </item>
+    
+    <item>
+      <title>Hugo Hosted on Nginx</title>
+      <link>https://trackerrr.github.io/blog/post/hugo-with-nginx/</link>
+      <pubDate>Fri, 19 Nov 2021 19:10:52 -0500</pubDate>
+      
+      <guid>https://trackerrr.github.io/blog/post/hugo-with-nginx/</guid>
+      <description>Hugo is a powerful static website generator, which can be hosted on Nginx, Github, Gitlab. Here, I will share my experience of deploying a Hugo website with Nginx on the server.
+Hugo Command hugo new site websitename hugo builds your site hugo --buildDrafts/-Dinclude content marked as draft hugo server high performance server hugo server --buildDrafts/-D`include content marked as draft Ref: Hugo builds your site
+Nginx Installation Ref: Nginx安装与配置
+Command cd /usr/local/nginx/sbin/nginx // ACC PATH .</description>
+    </item>
+    
+  </channel>
+</rss>
